@@ -52,7 +52,7 @@ const CategoryLists = ({status,tasks,setTasks,todos,inProgress,completed}) => {
 
   return (
     <div className={` w-64 rounded-md p-2 ${isOver?"bg-slate-200":""}`} ref={drop}>
-      <Header text={text} bg={bg} count={tasksToMap.length}/> 
+      <Header text={text} bg={bg} count={tasksToMap?.length}/> 
       {
         tasksToMap?.length >0 && (
           tasksToMap?.map((task, index) => {
