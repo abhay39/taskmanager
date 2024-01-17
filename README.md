@@ -1,4 +1,15 @@
 
+![image](https://github.com/abhay39/taskmanager/assets/84112755/a4f75ff4-dda3-43e5-bc75-7b4c3b1287f5)
+
+
+![image](https://github.com/abhay39/taskmanager/assets/84112755/499d3d79-42a3-4a49-8740-78afae3ff0fd)
+
+
+![image](https://github.com/abhay39/taskmanager/assets/84112755/27e3efc1-b67a-4cca-a05d-bbe5ca63151c)
+
+
+![image](https://github.com/abhay39/taskmanager/assets/84112755/710d089b-5f7f-416c-8d50-9f1fa7dee327)
+
 # Task Manager App
 
 ## Overview
