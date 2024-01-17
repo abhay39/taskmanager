@@ -54,8 +54,8 @@ const CategoryLists = ({status,tasks,setTasks,todos,inProgress,completed}) => {
     <div className={` w-64 rounded-md p-2 ${isOver?"bg-slate-200":""}`} ref={drop}>
       <Header text={text} bg={bg} count={tasksToMap.length}/> 
       {
-        tasksToMap.length >0 && (
-          tasksToMap.map((task, index) => {
+        tasksToMap?.length >0 && (
+          tasksToMap?.map((task, index) => {
             return (
               <div key={index}>
                 <TaskItem task={task} tasks={tasks} key={task.id} setTasks={setTasks} />
