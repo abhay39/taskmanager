@@ -124,10 +124,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any inquiries or feedback, please contact the project maintainer:
-
-Name: Abhay Kumar Gupta
-Email: abhayguptaak39@gmail.com
 
 For any inquiries or feedback, please contact the project maintainer:
 
